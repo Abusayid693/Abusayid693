@@ -1,16 +1,15 @@
-### Hi there 👋
+Hey 👋 I am Rehan
 
-<!--
-**Abusayid693/Abusayid693** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 I'm Rehan, I'm a freshman majoring in Computer Science
+- 🤩 I am interested in Open Source and Software Development. I also have keen interest for Machine learning and its application, this summer i am trying to complete few ML & deep learning courses on **coursera** (I really need inspiration to complete my courses they are currently overdue).
+- 🤝 Feel free to connect with me on [Twitter]() or [Discord]() 
 
-Here are some ideas to get you started:
+ * [Hakcathons](https://devpost.com/Abusayid693) 
+ * [LinkedIn](https://www.linkedin.com/in/rehan-choudhury-66842a164/)
+ * [Email](mailto:abusayid693@gmail.com?subject=[GitHub])
+ * [Resume]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
