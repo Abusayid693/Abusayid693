@@ -1,5 +1,7 @@
 Hey 👋 I am Rehan
 
+![My portfolio](https://github.com/Abusayid693/Abusayid693/blob/main/Frame%203.png)
+
 - 😄 I'm Rehan, I'm a freshman majoring in Computer Science
 - 🤩 I am interested in Open Source and Software Development. I also have keen interest for Machine learning and its application, this summer i am trying to complete few ML & deep learning courses on **coursera** (I really need inspiration to complete my courses they are currently overdue).
 - 🤝 Feel free to connect with me on [Twitter]() or [Discord]() 
