@@ -8,7 +8,7 @@ const rehan = {
 }
 ```
 
-[**Website**]() · [**Email**](htttps://rehanchoudhury.com) · [**GitHub**](https://github.com/Abusayid693) · [**LinkedIn**](https://www.linkedin.com/in/rehan-choudhury-66842a164/) · [**Medium**](https://abusayid693.medium.com/)
+[**Website**](htttps://rehanchoudhury.com) ·  [**Hackathons**](https://devpost.com/Abusayid693) · [**Email**](mailto:abusayid693@gmail.com) · [**GitHub**](https://github.com/Abusayid693) · [**LinkedIn**](https://www.linkedin.com/in/rehan-choudhury-66842a164/) · [**Medium**](https://abusayid693.medium.com/)
 
 
 
